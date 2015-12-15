@@ -1,4 +1,7 @@
 #!/bin/sh
+# Fixes this Xcode error:
+# Connection to localhost port 8081 [tcp/sunproxyadmin] succeeded! Port 8081 already in use, packager is either not running or not running correctly
+#
 # Run from the root directory of the project
 
 # 8082 unless a replacement port number is specified
